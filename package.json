@@ -1,0 +1,24 @@
+{
+  "name": "gitcollaboration",
+  "version": "1.0.0",
+  "description": "branching and merging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21WDWU02/GitCollaboration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/21WDWU02/GitCollaboration/issues"
+  },
+  "homepage": "https://github.com/21WDWU02/GitCollaboration#readme",
+  "devDependencies": {
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0"
+  }
+}
